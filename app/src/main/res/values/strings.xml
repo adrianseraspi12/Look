@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Look!</string>
+    <string name="on_boarding_image">On boarding image</string>
+
+    <string name="directions">Directions</string>
+    <string name="nearby_places">Nearby Places</string>
+
+    <string name="directions_desc">Show the direction for a certain place</string>
+    <string name="nearby_places_desc">Check Restaurants, Hotels, Bars, Coffee near you</string>
+    <string name="get_started">Get Started</string>
+
 </resources>
