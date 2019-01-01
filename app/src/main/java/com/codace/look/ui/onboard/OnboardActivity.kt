@@ -1,12 +1,13 @@
-package com.codace.look
+package com.codace.look.ui.onboard
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.codace.look.R
 
-class MainActivity : AppCompatActivity() {
+class OnboardActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_onboard)
     }
 }
